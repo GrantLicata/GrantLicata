@@ -2,9 +2,8 @@
 
 **`Full Stack Developer`**  **`Project Manager`**
 
-Welcome to my developer journey, where I am seeking to make an impact on the digital world. The repositories found here are a colleciton of both learning pursuits and passion projects. 
+Welcome to my GitHub portfolio! Here you will find a collection of my full stack applications and projects. I am a project manager with a passion for web development, and in my free time, I enjoy building applications using a variety of technologies and tools. Below, you will find an overview of the projects I have worked on.
 
-#### [LinkedIn](https://www.linkedin.com/in/grantlicata/)
 #
 
 ### Languages and Tools
@@ -25,6 +24,8 @@ Welcome to my developer journey, where I am seeking to make an impact on the dig
 
 #
 
-### Stats
-[![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantlicata)](https://github.com/grantlicata/github-readme-stats)
+### Contact
+Thank you for visiting my GitHub portfolio! If you have any questions or would like to get in touch, please feel free to reach out to me at grant.licata@gmail.com. I'm always interested in collaboration opportunities and would love to hear from you.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/grantlicata/) for updates on my latest projects and articles.
 
