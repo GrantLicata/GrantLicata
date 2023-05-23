@@ -6,6 +6,13 @@ Welcome to my GitHub portfolio! Here you will find a collection of my full stack
 
 #
 
+### Contact
+Thank you for visiting my GitHub portfolio! If you have any questions or would like to get in touch, please feel free to reach out to me at grant.licata@gmail.com. I'm always interested in collaboration opportunities and would love to hear from you.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/grantlicata/) for updates on my latest projects and articles.
+
+#
+
 ### Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,11 +28,3 @@ Welcome to my GitHub portfolio! Here you will find a collection of my full stack
 <!-- Icon Source: https://devicon.dev/ -->
 
 </br>
-
-#
-
-### Contact
-Thank you for visiting my GitHub portfolio! If you have any questions or would like to get in touch, please feel free to reach out to me at grant.licata@gmail.com. I'm always interested in collaboration opportunities and would love to hear from you.
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/grantlicata/) for updates on my latest projects and articles.
-
