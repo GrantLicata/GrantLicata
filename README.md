@@ -15,7 +15,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/grantlicata/) for
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,bootstrap,express,firebase,figma,flask,git,github,jquery,mysql,nextjs,nginx,nodejs,postman,react,sass,tailwind,vercel,vscode,mongodb&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,bootstrap,express,firebase,figma,flask,git,github,jquery,mysql,nextjs,nginx,nodejs,postman,react,sass,tailwind,vercel,vscode,mongodb&perline=12)](https://skillicons.dev)
 
 
 
