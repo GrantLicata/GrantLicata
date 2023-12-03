@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**  **`Project Manager`**  **`Product Owner`**  **`Scrum Master`**
 
-Welcome to my GitHub portfolio! Here you will find a collection of my full stack applications and projects. I am a project manager with a passion for web development, and in my free time, I enjoy building applications using a variety of technologies and tools. 
+Welcome to my GitHub portfolio! Here you will find a collection of my full stack applications and projects. I am a Senior Project Manager with a passion for web development, and in my free time, I enjoy building applications using a variety of technologies and tools. 
 
 #
 
